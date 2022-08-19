@@ -52,6 +52,7 @@ typings/
 *.tgz
 
 # Yarn Integrity file
+.yarn/
 .yarn-integrity
 
 # dotenv environment variables file
@@ -61,3 +62,7 @@ typings/
 .next
 
 dist
+
+# vs code
+.vscode
+.DS_Store
