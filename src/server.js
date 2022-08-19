@@ -27,7 +27,7 @@ router.get('/lol', (request, response) => {
     response.send({ message: 'hello world' })
 })
 
-app.get('/dlsa', log, (request, response) => {
+app.get('/dlsassdasas', log, (request, response) => {
     response.send({ message: 'hello' })
 })
 
